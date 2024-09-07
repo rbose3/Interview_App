@@ -26,8 +26,7 @@ export default function Home() {
               <span className="Block">With team members</span>
             </h1>
             <p className="mx-auto mt-6 max-w-xl sm:text-xl/relaxed">
-              Our In-App Interview-R enables seamless interview experiences directly within the application whether you're conducting job         
-              interviews, assessments, or evaluations it's an all in one solution. 
+              Our In-App Interview-R enables seamless interview experiences directly within the application. Whether you're conducting job interviews, assessments, or evaluations it's an all in one solution.
             </p>
             <div className="flex items-center justify-center gap-4 mt-6">
               <input
